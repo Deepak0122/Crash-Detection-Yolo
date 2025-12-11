@@ -24,6 +24,3 @@ This project detects road crashes in real-time using YOLOv8 object detection. Th
 1. Select a video file or use ESP32-CAM live feed
 1. Detected crashes will be highlighted in red
 
----
-
-📌 Developed as part of AI Hackathon Projects 🚀
